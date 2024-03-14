@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ye7r06HdaDr4pbYpYIr3id2V5DvBj23jxEWK/bQ7P8+J7M5Bq95ig+bVWxlIwreNG8z6Zva8YD0KsX5KmYlyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Projects\\ContactList\\server\\CloudStorageTest\\CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
